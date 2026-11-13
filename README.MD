@@ -3,7 +3,7 @@
 App em React Native (Expo) que destaca pontos turísticos de São Paulo conforme a
 localização do usuário e mostra curiosidades históricas.
 
-**Equipe:** Nome 1, Nome 2, Nome 3, Nome 4
+**Equipe:** Arthur Gonçalves, Arthur Oliveira, Gustavo Henrique, Maria Eduarda Coelho
 
 ## Recursos
 - **Mapas e localização:** react-native-maps + expo-location, com marcadores por categoria
