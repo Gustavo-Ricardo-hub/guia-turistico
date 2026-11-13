@@ -1,0 +1,112 @@
+[
+  {
+    "id": "theatro-municipal",
+    "nome": "Theatro Municipal",
+    "categoria": "monumento",
+    "foto": "https://picsum.photos/seed/theatro/600/400",
+    "descricao": "Um dos cartões-postais do centro de São Paulo, com arquitetura eclética inspirada em casas de ópera europeias.",
+    "curiosidade": "Inaugurado em 1911, o teatro foi palco da Semana de Arte Moderna de 1922.",
+    "latitude": -23.5453,
+    "longitude": -46.6389,
+    "raio": 150
+  },
+  {
+    "id": "pateo-do-collegio",
+    "nome": "Pateo do Collegio",
+    "categoria": "museu",
+    "foto": "https://picsum.photos/seed/pateo/600/400",
+    "descricao": "Complexo que reúne igreja e museu no local onde a cidade nasceu.",
+    "curiosidade": "Foi aqui que jesuítas, entre eles Manuel da Nóbrega e José de Anchieta, fundaram São Paulo em 1554.",
+    "latitude": -23.5487,
+    "longitude": -46.6340,
+    "raio": 150
+  },
+  {
+    "id": "catedral-da-se",
+    "nome": "Catedral da Sé",
+    "categoria": "monumento",
+    "foto": "https://picsum.photos/seed/se/600/400",
+    "descricao": "Catedral de estilo neogótico no marco zero da cidade, com cúpula de grande destaque.",
+    "curiosidade": "Sua construção foi concluída em 1954, ano do 4º centenário de São Paulo.",
+    "latitude": -23.5503,
+    "longitude": -46.6339,
+    "raio": 200
+  },
+  {
+    "id": "mercado-municipal",
+    "nome": "Mercado Municipal",
+    "categoria": "monumento",
+    "foto": "https://picsum.photos/seed/mercadao/600/400",
+    "descricao": "Prédio histórico com vitrais e grande variedade de frutas, queijos e frios.",
+    "curiosidade": "Inaugurado em 1933, é famoso pelo sanduíche de mortadela e pelo pastel de bacalhau.",
+    "latitude": -23.5412,
+    "longitude": -46.6293,
+    "raio": 150
+  },
+  {
+    "id": "pinacoteca",
+    "nome": "Pinacoteca de São Paulo",
+    "categoria": "museu",
+    "foto": "https://picsum.photos/seed/pinacoteca/600/400",
+    "descricao": "Museu de artes visuais com foco na produção brasileira, instalado em prédio de tijolos aparentes.",
+    "curiosidade": "Fundada em 1905, é o museu de arte mais antigo da cidade.",
+    "latitude": -23.5343,
+    "longitude": -46.6336,
+    "raio": 150
+  },
+  {
+    "id": "parque-da-luz",
+    "nome": "Jardim da Luz",
+    "categoria": "parque",
+    "foto": "https://picsum.photos/seed/luz/600/400",
+    "descricao": "Parque com lago, esculturas e áreas de sombra ao lado da Estação da Luz.",
+    "curiosidade": "Criado em 1825, foi o primeiro jardim público de São Paulo.",
+    "latitude": -23.5345,
+    "longitude": -46.6340,
+    "raio": 150
+  },
+  {
+    "id": "masp",
+    "nome": "MASP",
+    "categoria": "museu",
+    "foto": "https://picsum.photos/seed/masp/600/400",
+    "descricao": "Museu de Arte de São Paulo, na Avenida Paulista, com acervo internacional de destaque.",
+    "curiosidade": "O prédio, projetado por Lina Bo Bardi e inaugurado em 1968, tem um vão livre de 74 metros.",
+    "latitude": -23.5614,
+    "longitude": -46.6559,
+    "raio": 150
+  },
+  {
+    "id": "ibirapuera",
+    "nome": "Parque Ibirapuera",
+    "categoria": "parque",
+    "foto": "https://picsum.photos/seed/ibira/600/400",
+    "descricao": "Maior parque urbano da cidade, com lago, ciclovias, museus e áreas de lazer.",
+    "curiosidade": "Inaugurado em 1954, tem edifícios projetados por Oscar Niemeyer.",
+    "latitude": -23.5874,
+    "longitude": -46.6576,
+    "raio": 300
+  },
+  {
+    "id": "monumento-bandeiras",
+    "nome": "Monumento às Bandeiras",
+    "categoria": "monumento",
+    "foto": "https://picsum.photos/seed/bandeiras/600/400",
+    "descricao": "Grande conjunto escultórico na entrada do Ibirapuera, em homenagem aos bandeirantes.",
+    "curiosidade": "A obra é de Victor Brecheret e foi inaugurada em 1953.",
+    "latitude": -23.5742,
+    "longitude": -46.6564,
+    "raio": 200
+  },
+  {
+    "id": "museu-do-ipiranga",
+    "nome": "Museu do Ipiranga",
+    "categoria": "museu",
+    "foto": "https://picsum.photos/seed/ipiranga/600/400",
+    "descricao": "Museu Paulista, próximo ao local ligado à proclamação da Independência do Brasil.",
+    "curiosidade": "Reabriu em 2022, após longa restauração, na data do bicentenário da Independência.",
+    "latitude": -23.5855,
+    "longitude": -46.6097,
+    "raio": 200
+  }
+]
